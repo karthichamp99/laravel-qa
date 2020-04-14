@@ -2,19 +2,7 @@
 
 @section('cdns')
 <style>
-    .counters {
-        margin-right: 30px;
-        font-size: 10px;
-        text-align: center;
-    }
-    strong {
-        display: block;
-        font-size: 2em;
-    }
-    .vote, .answer {
-        width: 60px;
-        height: 60px;
-    }
+
 </style>
 @endsection
 
