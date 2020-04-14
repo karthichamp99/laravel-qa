@@ -2,7 +2,10 @@
 
 @section('cdns')
 <style>
-
+    strong {
+        display: block;
+        font-size: 2em;
+    }
 </style>
 @endsection
 

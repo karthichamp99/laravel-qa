@@ -10888,11 +10888,6 @@ a.text-dark:focus {
   text-align: center;
 }
 
-strong {
-  display: block;
-  font-size: 2em;
-}
-
 .vote,
 .answer {
   width: 60px;
